@@ -1,0 +1,1 @@
+This program has the constructor which assigns the values to respective variables. For each and every object same display method is called. It also checks whether the result of student is pass or fail using nested if statements.
